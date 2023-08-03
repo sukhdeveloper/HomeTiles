@@ -7,7 +7,7 @@
 
 
 @include('js_constants.lang')
-@include('js_constants.ConfigTileVisualizer')
+@include('js_constants.ConfigHomeTiles')
 
 <form  id="updateSurfacesForm" action="/room2d/surfaces/update" method="POST">
   {{ csrf_field() }}

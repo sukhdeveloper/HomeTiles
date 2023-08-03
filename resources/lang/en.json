@@ -35,8 +35,8 @@
     "FILTER_FOUND_TILES": "Found {s} tiles",
     "FILTER_TILES_NOT_FOUND": "Oops.. No product found",
 
-    "SHARE_EMAIL_SUBJECT": "TileVisualizer room share link",
+    "SHARE_EMAIL_SUBJECT": "HomeTiles room share link",
     "SHARE_EMAIL_BODY": "Room share link",
 
-    "SHARE_WHATSAPP_MESSAGE": "TileVisualizer room share link"
+    "SHARE_WHATSAPP_MESSAGE": "HomeTiles room share link"
 }

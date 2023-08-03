@@ -43,7 +43,7 @@
 </head>
 <body>
     @include('js_constants.lang')
-    @include('js_constants.ConfigTileVisualizer')
+    @include('js_constants.ConfigHomeTiles')
 
 
     @include('common.alerts')
