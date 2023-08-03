@@ -1,0 +1,372 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 202008 will be lost/reset.
+# Last config file used to build this data file was /home/machucat/tmp/awstats/awstats.simulator.machucatile.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2022                
+POS_TIME 2683                
+POS_VISITOR 7385                
+POS_DAY 8582                
+POS_DOMAIN 3370                
+POS_LOGIN 3657                
+POS_ROBOT 3812                
+POS_WORMS 4091                
+POS_EMAILSENDER 4222                
+POS_EMAILRECEIVER 4365                
+POS_SESSION 9183                
+POS_SIDER 9389                
+POS_FILETYPES 4500                
+POS_DOWNLOADS 4709                
+POS_OS 4757                
+POS_BROWSER 4928                
+POS_SCREENSIZE 5353                
+POS_UNKNOWNREFERER 5427                
+POS_UNKNOWNREFERERBROWSER 5792                
+POS_ORIGIN 6152                
+POS_SEREFERRALS 6289                
+POS_PAGEREFS 6433                
+POS_SEARCHWORDS 6608                
+POS_KEYWORDS 6760                
+POS_MISC 2345                
+POS_ERRORS 6819                
+POS_CLUSTER 3513                
+POS_SIDER_404 6931                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200901114556 1 0 11577663259132
+FirstTime 0
+LastTime 20200831171008
+LastUpdate 20200901123241 1 0 0 0 0
+TotalVisits 49                  
+TotalUnique 24                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 27                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 125 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 61 4257624 0 2 0
+1 0 0 0 0 0 0
+2 8 285 5477615 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 7 277 5395750 1 2 204
+8 21 42 2072962 0 1 16893
+9 6 276 5401403 1 3 25650
+10 14 557 10834322 2 13 87931
+11 26 581 12054162 0 6 33786
+12 29 315 6155251 0 5 16893
+13 20 307 6994204 0 2 0
+14 26 589 12881422 0 12 16893
+15 45 886 19283786 6 28 114397
+16 153 1269 23293612 12 68 37217
+17 61 359 7196364 2 11 34192
+18 42 328 8585112 0 8 0
+19 7 8 28215 0 1 0
+20 0 0 0 0 0 0
+21 14 557 10843138 0 3 33396
+22 15 315 6560664 0 5 0
+23 26 641 16717517 0 4 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+ph 482 6459 140456482
+in 26 334 6259072
+id 14 307 7568094
+us 11 553 9749475
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+bot[\s_+:,\.\;\/\\-] 9 111350 20200825165146 0
+php 8 135144 20200822125843 0
+slurp 2 16917 20200806160207 1
+no_user_agent 1 16893 20200825175526 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+jpg 412 6715838 0 0
+Unknown 524 945189 0 0
+woff2 9 162270 0 0
+png 5826 88586398 0 0
+js 300 43969328 0 0
+css 60 1075584 0 0
+jpeg 522 22578516 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+linuxandroid 4 0
+macosx 2494 153
+winnt 2535 269
+win7 336 27
+ios_iphone 1708 55
+macosx9 570 28
+Unknown 6 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 17
+chrome84.0.4147.89 413 113
+chrome45.0.2454.101 2 2
+chrome65.0.3325.181 570 28
+chrome84.0.4147.125 312 39
+netscape5.0 2 1
+safari13.1.2 284 12
+safari12.1.2 552 12
+safari12.1 307 14
+chrome74.0.3729.136 1 0
+chrome67.0.3396.87 3 0
+chrome84.0.4147.135 1928 124
+chrome84.0.4147.105 1880 155
+Unknown 6 1
+safari13.1.1 559 12
+safari 280 9
+safari13.0.3 285 8
+chrome70.0.3538.102 269 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Viber/13.6.0.1_CFNetwork/1128.0.1_Darwin/19.6.0 20200821140901
+Viber/13.5.0.5_CFNetwork/1128.0.1_Darwin/19.6.0 20200811233931
+Viber/13.5.0.5_CFNetwork/976_Darwin/18.2.0 20200825093634
+Viber/13.4.0.1_CFNetwork/1126_Darwin/19.5.0 20200803115854
+WhatsApp/2.2033.7_N 20200825175525
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+Viber/13.4.0.1_CFNetwork/1126_Darwin/19.5.0 20200803115854
+WhatsApp/2.2033.7_N 20200825175525
+Viber/13.5.0.5_CFNetwork/1128.0.1_Darwin/19.6.0 20200811233931
+Viber/13.5.0.5_CFNetwork/976_Darwin/18.2.0 20200825093634
+Viber/13.6.0.1_CFNetwork/1128.0.1_Darwin/19.6.0 20200821140901
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 60 70
+From1 0 0
+From2 0 0
+From3 2 2
+From4 471 7581
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://l.facebook.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 3 50910
+404 9 82431
+302 17 3807
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 3
+/apple-touch-icon.png 4 -
+/storage/tilesdesigner/Square/try2.png 1 http://simulator.machucatile.com/room2d
+/apple-touch-icon-precomposed.png 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 27
+112.198.230.82 139 1002 21710240 20200811153535
+112.205.178.215 55 980 25617712 20200831171008
+112.201.94.207 48 615 14098177 20200825220209
+180.191.234.133 42 328 8585112 20200817183551
+119.95.173.143 39 312 5509687 20200818163857
+112.198.230.105 35 54 1697011 20200821134527
+112.211.32.74 28 319 7468712 20200804081625
+110.54.210.6 21 293 5438819 20200813173223
+36.70.75.60 14 307 7568094 20200826125821
+27.57.173.237 14 292 5476730 20200811002740
+112.200.249.205 13 580 11110790 20200830221438
+110.54.232.30 12 552 10788508 20200826133950
+110.93.83.123 12 284 5434568 20200825171931
+122.170.54.57 10 31 531852 20200804173444
+110.54.128.84 8 8 20005 20200831170613
+112.198.230.36 8 289 6626287 20200828161216
+110.54.153.236 7 277 5393185 20200807112322
+73.83.92.46 7 282 5473912 20200808212914
+175.176.32.191 6 284 5512512 20200804153306
+175.176.32.75 6 275 5384510 20200820091234
+110.54.145.63 3 3 9968 20200825114017
+66.96.194.113 3 269 4249914 20200804161045
+117.99.99.157 2 11 250490 20200805154440
+52.114.14.102 1 2 25649 20200825100708
+112.207.118.173 0 1 16893 
+112.211.153.208 0 2 16893 
+112.206.39.219 0 1 16893 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20200801 0 1 16893 0
+20200803 2 6 42542 1
+20200804 128 1268 24540817 6
+20200805 16 34 384474 3
+20200807 25 302 6937087 3
+20200808 7 280 5440126 1
+20200810 14 569 12020774 2
+20200811 24 309 6701727 2
+20200813 21 293 5438819 2
+20200814 14 19 114626 1
+20200817 66 624 14056530 2
+20200818 22 24 66484 2
+20200819 7 7 12416 1
+20200820 6 275 5384510 1
+20200821 7 20 1541754 1
+20200822 0 1 16893 0
+20200824 27 582 11682521 2
+20200825 96 2043 43977258 11
+20200826 20 399 14514288 4
+20200828 1 1 8869 1
+20200830 7 303 5699627 1
+20200831 23 293 5434088 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 2
+1h+ 2
+30s-2mn 4
+30mn-1h 3
+5mn-15mn 2
+0s-30s 33
+2mn-5mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 43
+/customtiles 119 25832 0 1
+/get/filters 75 12975 0 37
+/tilesdesigner/blanktiles 65 78672 1 1
+/get/tiles 63 35343 0 0
+/room2d 62 536264 43 4
+/get/room2d/1 53 28885 0 0
+/customtile/save 27 5762 2 4
+/fonts/glyphicons-halflings-regular.woff2 9 162270 0 2
+/login 7 9213 1 0
+/tiles 7 63604 2 0
+/users 4 15406 0 0
+/filters 3 10884 0 0
+/room2d/17 2 17521 0 0
+/get/room2d/17 2 686 0 0
+/get/filter/3 2 342 0 0
+/home 2 4300 0 0
+/register 2 2359 0 0
+/room2d/13 2 17523 0 0
+/get/room2d/13 2 1146 0 0
+/admin 2 4092 0 0
+/get/room2d/3 1 502 0 0
+/get/user/8 1 166 0 0
+/rooms2d 1 4841 0 0
+/room2d/29 1 8767 0 0
+/get/room2d/20 1 522 0 0
+/room/url/b73ce398c39f506af761d2277d853a92 1 8872 0 0
+/userRoom/save 1 112 0 0
+/appsettings 1 1968 0 0
+/get/room2d/29 1 481 0 0
+/customtile/remove/296 1 92 0 0
+/profile 1 2158 0 0
+/customtile/remove/287 1 92 0 0
+/get/room2d/15 1 407 0 0
+/customtile/remove/289 1 93 0 0
+/get/room/url/b73ce398c39f506af761d2277d853a92 1 297 0 0
+/get/room2d/7 1 448 0 0
+/customtile/remove/297 1 93 0 0
+/room2d/3 1 8762 0 0
+/room2d/15 1 8760 0 0
+/get/room2d/21 1 549 0 0
+/room2d/21 1 8875 0 0
+/room2d/20 1 8761 0 0
+/room2d/7 1 8762 0 0
+END_SIDER

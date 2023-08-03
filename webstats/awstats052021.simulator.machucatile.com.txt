@@ -1,0 +1,431 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202105 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.simulator.machucatile.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2008                
+POS_TIME 2688                
+POS_VISITOR 6682                
+POS_DAY 8525                
+POS_DOMAIN 3401                
+POS_LOGIN 3679                
+POS_ROBOT 3834                
+POS_WORMS 4012                
+POS_EMAILSENDER 4143                
+POS_EMAILRECEIVER 4286                
+POS_SESSION 9257                
+POS_SIDER 9464                
+POS_FILETYPES 4421                
+POS_DOWNLOADS 4634                
+POS_OS 4682                
+POS_BROWSER 4858                
+POS_SCREENSIZE 5280                
+POS_UNKNOWNREFERER 5354                
+POS_UNKNOWNREFERERBROWSER 5441                
+POS_ORIGIN 5523                
+POS_SEREFERRALS 5663                
+POS_PAGEREFS 5807                
+POS_SEARCHWORDS 5955                
+POS_KEYWORDS 6107                
+POS_MISC 2351                
+POS_ERRORS 6166                
+POS_CLUSTER 3535                
+POS_SIDER_404 6276                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210601004518 24742 9061508 12798104883472
+FirstTime 0
+LastTime 20210531143433
+LastUpdate 20210601044352 24742 24237 504 0 0
+TotalVisits 107                 
+TotalUnique 41                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 41                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 38 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 96 3056 45005981 1 10 39992
+1 100 3013 42232836 1 10 73440
+2 66 1905 26245690 1 3 30963
+3 113 1309 16543151 0 2 16893
+4 48 82 443256 0 0 0
+5 57 2184 32138739 0 3 0
+6 124 2777 38690345 4 16 50753
+7 113 2212 34681782 3 9 34684
+8 77 2182 30310650 0 2 0
+9 11 469 6554967 0 1 0
+10 66 971 16625934 2 4 824
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 1 16893
+14 21 882 12498028 0 1 0
+15 0 0 0 0 0 0
+16 1 1 42354 1 1 0
+17 9 207 3521939 1 1 412
+18 33 1052 18030569 2 4 824
+19 25 442 6380629 1 1 412
+20 68 954 15935452 3 5 1236
+21 7 11 42286 0 0 0
+22 32 48 177309 0 0 0
+23 12 908 12800795 1 3 412
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+ph 607 10200 150652483
+us 262 3829 56962374
+no 210 10636 151287835
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+facebookexternalhit/ 4 67572 20210506060327 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 85 2135714 0 0
+png 21202 209675695 0 0
+js 520 89017463 0 0
+jpg 797 13010249 0 0
+jpeg 982 42798696 0 0
+woff2 1 18028 0 0
+Unknown 1078 2246847 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+macosx 13777 485
+linuxandroid 453 7
+ios_iphone 1836 39
+macosx12 458 12
+win10 7416 503
+ios_ipad 721 29
+win7 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 16
+chrome90.0.4430.93 2163 249
+chrome63.0.3239.84 1 1
+chrome88.0.4324.150 298 8
+chrome87.0.4280.141 452 7
+safari13.1.2 11106 216
+chrome90.0.4430.72 456 8
+safari14.1 929 27
+chrome91.0.4472.77 19 19
+chrome90.0.4430.212 4324 219
+firefox88.0 593 65
+chrome89.0.4389.90 453 7
+safari14.0.3 2687 208
+chrome83.0.4103.106 1 0
+safari12.1.2 458 12
+safari 721 29
+chrome72.0.3626.109 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 109 110
+From1 0 0
+From2 0 0
+From3 0 0
+From4 970 24555
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 14 5356
+499 3 0
+404 18 194810
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 3
+/.well-known/assetlinks.json 4 -
+/apple-touch-icon-precomposed.png 7 -
+/apple-touch-icon.png 7 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 41
+47.133.96.196 168 1221 20056842 20210514182227
+112.207.111.201 123 1492 20102592 20210526073935
+108.31.29.130 84 2209 33685196 20210526195134
+136.158.28.125 83 4164 59144981 20210512065110
+103.252.35.132 79 996 16846184 20210520065756
+112.204.163.60 65 593 7323436 20210531143433
+136.158.28.189 57 2254 33065956 20210519081059
+136.158.28.97 52 2880 39874819 20210528012813
+180.190.98.66 40 348 6050748 20210511075436
+112.210.99.107 39 494 6576776 20210529042408
+112.207.98.249 18 474 6518241 20210511062042
+180.191.191.114 21 33 172726 20210531065521
+180.190.98.107 10 14 72866 20210507031258
+3.88.66.50 1 1 10234 20210517061653
+112.211.42.161 7 452 6387443 20210503143648
+180.190.98.6 7 452 6387418 20210506050755
+206.201.5.202 8 456 6406793 20210526082401
+180.190.87.30 7 455 6417289 20210526073915
+136.158.28.168 6 437 6122891 20210520061030
+112.206.44.26 12 458 6406778 20210522105729
+180.190.87.189 7 8 26863 20210524061608
+112.207.108.70 13 15 50482 20210510035702
+180.190.98.96 9 12 41028 20210508034820
+34.220.182.238 1 1 42354 20210517044043
+54.189.220.66 1 1 42354 20210517054425
+180.190.117.226 7 8 24660 20210520081350
+136.158.28.38 6 440 6275537 20210521054133
+112.207.109.255 21 24 63268 20210505065111
+112.207.105.255 16 72 2811795 20210506035145
+52.32.223.16 1 1 42354 20210514163046
+112.198.71.183 1 62 3364056 20210525235026
+112.207.109.52 13 464 6476497 20210512005432
+180.190.85.113 30 46 1881026 20210519024045
+130.105.5.79 21 1398 21001203 20210531073006
+110.54.176.217 6 451 6387449 20210506060304
+136.158.28.74 6 461 6803651 20210526015038
+152.32.104.109 5 394 3040686 20210525235029
+112.206.37.143 15 911 12842678 20210531034124
+54.213.0.233 1 1 42354 20210517040218
+112.207.101.52 6 6 6100 20210511074010
+112.207.100.70 6 6 6088 20210510071033
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20210503 20 1250 17436810 3
+20210504 14 465 6310384 2
+20210505 31 814 11161394 3
+20210506 44 1483 22513619 6
+20210507 26 650 10288548 3
+20210508 9 12 41028 1
+20210510 33 497 6504629 5
+20210511 122 1790 29166467 7
+20210512 16 958 13596734 2
+20210513 90 544 9664089 2
+20210514 102 642 13767322 8
+20210517 35 992 13898029 8
+20210518 69 1454 19950903 7
+20210519 45 1113 16475748 5
+20210520 78 1418 21095094 5
+20210521 20 905 12716338 3
+20210522 48 1553 22291816 6
+20210523 12 250 3602036 1
+20210524 35 1127 15283173 4
+20210525 19 920 12745378 4
+20210526 40 1566 22396222 6
+20210527 33 1349 18847952 4
+20210528 26 463 6196852 2
+20210529 12 12 12218 2
+20210531 100 2438 32939909 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 5
+5mn-15mn 10
+0s-30s 64
+15mn-30mn 6
+2mn-5mn 6
+30s-2mn 8
+30mn-1h 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 101
+/customtiles 199 234870 2 0
+/customtile/save 178 41686 4 33
+/get/filters 125 23000 0 61
+/tilesdesigner/blanktiles 125 370576 1 1
+/get/tiles 125 166375 3 0
+/get/room2d/1 118 71838 5 1
+/room2d 109 1244016 92 8
+/get/room2d/12 3 1215 0 0
+/room2d/12 3 30730 0 0
+/room2d/10 2 20490 0 0
+/customtile/remove/1155 1 104 0 0
+/customtile/remove/1252 1 104 0 0
+/customtile/remove/1081 1 104 0 0
+/customtile/remove/1162 1 104 0 0
+/room2d/8 1 10245 0 0
+/customtile/remove/1246 1 104 0 0
+/customtile/remove/1149 1 104 0 0
+/customtile/remove/1284 1 104 0 0
+/customtile/remove/1340 1 104 0 0
+/customtile/remove/1261 1 104 0 0
+/customtile/remove/1164 1 104 0 0
+/customtile/remove/1147 1 104 0 0
+/customtile/remove/1242 1 104 0 0
+/customtile/remove/1026 1 104 0 0
+/customtile/remove/1346 1 104 0 0
+/customtile/remove/1152 1 104 0 0
+/customtile/remove/1243 1 104 0 0
+/customtile/remove/1235 1 104 0 0
+/customtile/remove/1257 1 104 0 0
+/customtile/remove/1283 1 104 0 0
+/customtile/remove/1268 1 104 0 0
+/customtile/remove/1256 1 104 0 0
+/customtile/remove/1279 1 104 0 0
+/customtile/remove/1113 1 104 0 0
+/customtile/remove/1022 1 104 0 0
+/customtile/remove/1251 1 104 0 0
+/customtile/remove/1233 1 104 0 0
+/customtile/remove/1317 1 104 0 0
+/customtile/remove/1160 1 104 0 0
+/customtile/remove/1347 1 104 0 0
+/fonts/glyphicons-halflings-regular.woff2 1 18028 0 0
+/customtile/remove/1269 1 104 0 0
+/customtile/remove/1231 1 104 0 0
+/customtile/remove/1159 1 103 0 0
+/customtile/remove/1318 1 104 0 1
+/room2d/3 1 10243 0 0
+/customtile/remove/1273 1 104 0 0
+/customtile/remove/1258 1 104 0 0
+/get/room2d/10 2 1078 0 0
+/customtile/remove/1229 1 104 0 0
+/get/room2d/3 1 531 0 0
+/customtile/remove/1245 1 104 0 0
+/customtile/remove/1161 1 104 0 0
+/customtile/remove/1154 1 103 0 0
+/customtile/remove/1063 1 104 0 0
+/customtile/remove/1249 1 104 0 0
+/customtile/remove/1239 1 104 0 0
+/customtile/remove/1109 1 104 0 0
+/customtile/remove/1351 1 104 0 0
+/customtile/remove/1153 1 104 0 0
+/customtile/remove/1150 1 104 0 0
+/customtile/remove/1248 1 103 0 0
+/customtile/remove/1234 1 104 0 0
+/customtile/remove/1255 1 104 0 0
+/customtile/remove/1334 1 104 0 0
+/customtile/remove/1274 1 103 0 0
+/customtile/remove/1230 1 104 0 0
+/customtile/remove/1237 1 104 0 0
+/customtile/remove/1357 1 104 0 0
+/customtile/remove/1236 1 104 0 0
+/customtile/remove/1344 1 104 0 0
+/customtile/remove/1345 1 104 0 0
+/customtile/remove/1342 1 104 0 0
+/customtile/remove/1228 1 104 0 0
+/get/room2d/21 1 637 0 0
+/customtile/remove/1250 1 104 0 0
+/customtile/remove/1227 1 104 0 0
+/customtile/remove/1316 1 104 0 0
+/customtile/remove/1259 1 104 0 0
+/customtile/remove/1253 1 104 0 0
+/customtile/remove/1247 1 104 0 0
+/customtile/remove/1240 1 104 0 0
+/customtile/remove/1210 1 104 0 1
+/customtile/remove/1080 1 104 0 0
+/room2d/21 1 10248 0 0
+/customtile/remove/1148 1 104 0 0
+/customtile/remove/1241 1 104 0 0
+/customtile/remove/1335 1 104 0 0
+/customtile/remove/1110 1 104 0 0
+/customtile/remove/1272 1 104 0 0
+/customtile/remove/1107 1 104 0 0
+/customtile/remove/1343 1 104 0 0
+/customtile/remove/1263 1 104 0 0
+/customtile/remove/1163 1 104 0 0
+/customtile/remove/1278 1 104 0 0
+/customtile/remove/1238 1 104 0 1
+/customtile/remove/1265 1 104 0 0
+/customtile/remove/1165 1 104 0 0
+/customtile/remove/1232 1 104 0 0
+/customtile/remove/1276 1 104 0 0
+/get/room2d/8 1 441 0 0
+END_SIDER

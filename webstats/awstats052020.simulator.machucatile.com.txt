@@ -1,0 +1,310 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 202005 will be lost/reset.
+# Last config file used to build this data file was /home/machucat/tmp/awstats/awstats.simulator.machucatile.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2022                
+POS_TIME 2682                
+POS_VISITOR 6610                
+POS_DAY 7505                
+POS_DOMAIN 3270                
+POS_LOGIN 3545                
+POS_ROBOT 3700                
+POS_WORMS 3893                
+POS_EMAILSENDER 4024                
+POS_EMAILRECEIVER 4167                
+POS_SESSION 7768                
+POS_SIDER 7974                
+POS_FILETYPES 4302                
+POS_DOWNLOADS 4510                
+POS_OS 4558                
+POS_BROWSER 4694                
+POS_SCREENSIZE 4903                
+POS_UNKNOWNREFERER 4977                
+POS_UNKNOWNREFERERBROWSER 5330                
+POS_ORIGIN 5534                
+POS_SEREFERRALS 5672                
+POS_PAGEREFS 5816                
+POS_SEARCHWORDS 5992                
+POS_KEYWORDS 6144                
+POS_MISC 2345                
+POS_ERRORS 6203                
+POS_CLUSTER 3401                
+POS_SIDER_404 6301                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200601122818 1 0 10618813535914
+FirstTime 0
+LastTime 20200531134947
+LastUpdate 20200601124133 1 0 0 0 0
+TotalVisits 23                  
+TotalUnique 15                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 23                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 10 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 11 657986 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 1 11124
+10 19 566 10913522 0 2 0
+11 16 46 2469198 0 1 16893
+12 67 1446 29041204 3 11 51548
+13 42 659 14052973 1 4 17100
+14 16 298 6959690 1 2 404
+15 1 7 13184 0 2 33786
+16 7 278 5392794 0 0 0
+17 0 0 0 0 0 0
+18 1 67 3149000 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 1 12160 0 0 0
+22 9 36 1213797 0 1 0
+23 0 0 0 0 1 11124
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+ph 164 3123 68388766
+ie 13 285 5432608
+sg 1 1 8756
+us 1 6 45378
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+php 7 106713 20200527125956 0
+slurp 3 16941 20200531125159 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+png 2655 40076797 0 0
+Unknown 173 311872 0 0
+jpeg 234 10208748 0 0
+jpg 185 3024621 0 0
+css 26 425464 0 0
+js 136 19719826 0 0
+woff2 6 108180 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+macosx 367 31
+win7 280 9
+Unknown 10 2
+winnt 2162 105
+ios_iphone 596 32
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+chrome81.0.4044.138 610 24
+safari12.1.2 367 31
+mozilla 1 1
+chrome81.0.4044.129 608 26
+Unknown 9 1
+iphone 301 19
+chrome83.0.4103.61 1224 64
+safari13.0.5 295 13
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+adreview/1.0 20200528121902
+cortex/1.0 20200528121910
+WordPress/5.4.1;_http://www.machucatilesimulator.com 20200528122035
+Mozilla/5.0_(compatible;_Yahoo_Link_Preview;_https://help.yahoo.com/kb/mail/yahoo-link-preview-SLN23615.html)_maild/1590900717-0 20200531125157
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+cortex/1.0 20200528121910
+WordPress/5.4.1;_http://www.machucatilesimulator.com 20200528122035
+adreview/1.0 20200528121902
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 17 294
+From1 0 0
+From2 0 0
+From3 1 1
+From4 161 3120
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://l.instagram.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 2 17511
+302 3 814
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 23
+112.206.43.183 63 963 21675367 20200529000348
+112.198.226.150 36 589 12380169 20200528121831
+112.198.226.29 26 608 13436186 20200518110014
+112.198.215.185 15 353 8581676 20200531134203
+180.190.90.70 15 330 6887511 20200531134947
+130.105.5.79 9 280 5427857 20200521104719
+31.13.115.23 3 26 1121701 20200528121844
+31.13.115.19 3 73 1562514 20200528121852
+31.13.115.13 2 27 136024 20200528121852
+31.13.115.10 2 23 554919 20200528121852
+106.10.186.125 1 1 8756 20200531125157
+31.13.115.20 1 28 150250 20200528121852
+31.13.115.4 1 43 236412 20200528121853
+31.13.115.9 1 62 1620109 20200528121843
+50.62.208.69 1 1 8756 20200528122035
+31.13.127.16 0 1 16893 
+31.13.127.117 0 1 16893 
+69.171.251.17 0 1 691 
+69.171.251.30 0 1 4903 
+31.13.127.18 0 1 16893 
+69.171.251.34 0 1 10221 
+69.171.251.20 0 1 16893 
+69.171.251.18 0 1 3914 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20200512 7 284 5508978 1
+20200514 1 19 1539194 1
+20200518 18 305 6388014 1
+20200521 9 280 5427857 1
+20200527 22 574 12340658 2
+20200528 90 1258 26534878 12
+20200529 2 78 3806986 2
+20200531 30 617 12328943 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 2
+2mn-5mn 2
+30s-2mn 2
+5mn-15mn 1
+1h+ 1
+15mn-30mn 1
+0s-30s 14
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 19
+/customtiles 39 5361 1 2
+/get/filters 24 4152 1 8
+/tilesdesigner/blanktiles 24 29088 1 1
+/get/tiles 24 13464 2 2
+/room2d 19 166353 14 4
+/get/room2d/1 16 8720 1 1
+/customtile/save 9 1935 2 1
+/fonts/glyphicons-halflings-regular.woff2 6 108180 0 3
+/get/room2d/20 4 2088 0 0
+/room2d/20 4 35047 0 0
+/room2d/15 2 17525 1 1
+/get/room2d/23 1 367 0 0
+/room2d/21 1 8761 0 0
+/userRoom/save 1 112 0 0
+/get/room2d/21 1 549 0 0
+/get/room2d/15 1 407 0 0
+/room2d/23 1 8761 0 0
+/room2d/11 1 8768 0 0
+/get/room2d/11 1 414 0 0
+END_SIDER

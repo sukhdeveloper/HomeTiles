@@ -1,0 +1,429 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201912 will be lost/reset.
+# Last config file used to build this data file was /home/machucat/tmp/awstats/awstats.simulator.machucatile.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2022                
+POS_TIME 2682                
+POS_VISITOR 18822               
+POS_DAY 19510               
+POS_DOMAIN 3272                
+POS_LOGIN 3540                
+POS_ROBOT 3695                
+POS_WORMS 3827                
+POS_EMAILSENDER 3958                
+POS_EMAILRECEIVER 4101                
+POS_SESSION 19780               
+POS_SIDER 19966               
+POS_FILETYPES 4236                
+POS_DOWNLOADS 4474                
+POS_OS 4522                
+POS_BROWSER 4632                
+POS_SCREENSIZE 4779                
+POS_UNKNOWNREFERER 4853                
+POS_UNKNOWNREFERERBROWSER 4940                
+POS_ORIGIN 5022                
+POS_SEREFERRALS 5159                
+POS_PAGEREFS 5303                
+POS_SEARCHWORDS 5451                
+POS_KEYWORDS 5603                
+POS_MISC 2345                
+POS_ERRORS 5662                
+POS_CLUSTER 3396                
+POS_SIDER_404 5792                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200102141503 1 0 10356034127222
+FirstTime 0
+LastTime 20191227114941
+LastUpdate 20200102151900 1 0 0 0 0
+TotalVisits 20                  
+TotalUnique 14                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 15                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 71 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 22 115 5905897 3 5 1288
+10 64 168 5107427 6 19 8010
+11 10 152 8604067 3 6 10232
+12 0 0 0 0 0 0
+13 60 358 17248130 28 205 1779752
+14 50 57 146098 3 8 1288
+15 182 566 15197275 30 126 720648
+16 98 166 2315040 14 21 2824
+17 7 84 4337221 0 1 0
+18 0 1 1035 2 3 4435
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+ph 366 1235 44276683
+in 119 349 10279710
+us 8 83 4305797
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+woff2 7 126210 0 0
+css 25 424724 0 0
+js 126 18210265 0 0
+jpeg 336 11269653 0 0
+png 505 24893223 0 0
+Unknown 473 996780 0 0
+html 13 144 0 0
+jpg 181 2940156 0 0
+gif 1 1035 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+linuxandroid 5 1
+winnt 1312 372
+win7 350 120
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 4
+chrome79.0.3945.79 255 36
+chrome79.0.3945.88 245 92
+chrome78.0.3904.108 1166 364
+netscape5.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 65 65
+From1 0 0
+From2 0 0
+From3 0 0
+From4 428 1602
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+500 16 176054
+302 68 13939
+403 2 3756
+404 237 2324543
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 129
+/storage/savedrooms/202cb962ac59075b964b07152d234b70.png 6 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/Cfl8l3MbImdY1vjqbCQvg2Y9GGURumn9OG7ehrwS.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/tilesdesigner/classic/SEVILLE%20COLORS.icon.png 1 http://simulator.machucatile.com/room2d
+/storage/savedrooms/013d407166ec4fa56eb1e1f8cbe183b9.png 6 http://simulator.machucatile.com/room2d
+/storage/tilesdesigner/classic/Alameda.icon.png 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/room_icon_19.jpg 1 http://simulator.machucatile.com/room2d
+/storage/savedrooms/5f93f983524def3dca464469d2cf9f3e.png 6 http://simulator.machucatile.com/room2d
+/storage/savedrooms/6974ce5ac660610b44d9b9fed0ff9548.png 6 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/SRoGqkGc3vBNSiYvHb2xQntMqWV3VkBsZAhA4Zq8.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/room_icon_12.jpg 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/room_icon_42.jpg 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/NhQxZGlnhndrebkraI5lYmzgEowoqj3oiqSTqZEY.png 2 http://simulator.machucatile.com/room2d
+/storage/savedrooms/c0c7c76d30bd3dcaefc96f40275bdc0a.png 1 http://simulator.machucatile.com/home
+/storage/savedrooms/6c8349cc7260ae62e3b1396831a8398f.png 1 http://simulator.machucatile.com/home
+/storage/savedrooms/f2217062e9a397a1dca429e7d70bc6ca.png 8 http://simulator.machucatile.com/room2d
+/storage/rooms2d/n3M7O09MJ5wb4xYA580TvGJPayWNjLvutvZZ2PRp.png 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/EWex13FRCs0Vhzkxya494mpeMCIi3A7tCNgaJiJz.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/tiles/icons/tK0P9jpYUnLmY9BZX8sxi8XyyhcIKCD5XyGXvoRy.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/tilesdesigner/classic/LATICCE%20COLORS.icon.png 1 http://simulator.machucatile.com/room2d
+/storage/savedrooms/072b030ba126b2f4b2374f342be9ed44.png 1 http://simulator.machucatile.com/home
+/storage/tiles/icons/ocOYXUSaE6Q1gqU5japZ1hoSAYMVJ5c5vLj0dwgE.png 1 http://simulator.machucatile.com/tiles
+/storage/savedrooms/a5e00132373a7031000fd987a3c9f87b.png 6 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/NITZdZlwI218Qo8YrJ2zkXq200F9x8PPOyYP2W2p.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/cUSnmHEueSsxPAAfM1T3wYucngZ3GBHR7dnkwr0O.png 1 http://simulator.machucatile.com/tiles
+/storage/savedrooms/ec8956637a99787bd197eacd77acce5e.png 1 http://simulator.machucatile.com/home
+/storage/rooms2d/zahWYLorUJvR0OsDXpRdVkftEJQ9uVW7mGYsmGXo.png 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/uxQxzp98jehBjrfn1lQXrQPCWUY2a2OUJOTk3udf.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/tlMbKxcYLCZVhAEz5HmYu2NS4ayPe2R5ajzj0aPD.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/room_background_47.png 1 http://simulator.machucatile.com/room2d
+/storage/savedrooms/f457c545a9ded88f18ecee47145a72c0.png 1 http://simulator.machucatile.com/home
+/storage/tiles/icons/ZsQA8vBiZwV8bplew6HTkjjzRB76jXmpwK1v9lrL.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/rooms2d/room_icon_39.jpg 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/aVH7RLJJznj9A7hTwgFrwVBOZ8B9tH7C3h4oIsvJ.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/rooms2d/room_icon_45.jpg 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/Zbq9CsLSSASowSomGKa2wGQc131jBG290VAQV75g.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/savedrooms/8d5e957f297893487bd98fa830fa6413.png 6 http://simulator.machucatile.com/room2d
+/storage/rooms2d/room_icon_47.jpg 2 http://simulator.machucatile.com/room2d
+/storage/savedrooms/9778d5d219c5080b9a6a17bef029331c.png 1 http://simulator.machucatile.com/home
+/storage/rooms2d/kGscq1wU5wzF2YQ3HznnQ5eGxW3ejyIbmhclx79z.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/lSS11N1r7l5GalNhM4UexS6vMTgw8J82fjdRYpIZ.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/savedrooms/698d51a19d8a121ce581499d7b701668.png 6 http://simulator.machucatile.com/room2d
+/storage/tilesdesigner/classic/SAGRES%20COLORS.icon.png 1 http://simulator.machucatile.com/room2d
+/storage/savedrooms/4c56ff4ce4aaf9573aa5dff913df997a.png 6 http://simulator.machucatile.com/room2d
+/storage/rooms2d/room_icon_35.jpg 1 http://simulator.machucatile.com/room2d
+/storage/tilesdesigner/classic/GRANADA%20COLORS.icon.png 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/hoxtOxYmaXkFOlMQ1i07Twq2qufaRxgOQpO4t4qX.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/3lXP6xrnHcHk5s9N6yswVdnRch7tTQnpFazSixt1.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/room_icon_40.jpg 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/YX9x6AgGvccphqlYVKTZG2KVFInKqBKzzIKkEnjx.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/MElzRSmdLlXXhE46q46IwZVwFahilAD32en6iusW.png 1 http://simulator.machucatile.com/tiles
+/storage/tiles/icons/xWNllEuDAtwEL41WMGmoNwmbJ1ai2pByzKOhsw8b.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/rooms2d/9jPw88KBJoQ5pnkHQireugEB50xtTBdprdYCYG7H.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/CWCU8PwDXEyWMOM4dP7VXUcwGHobsR3zQEpQqErf.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/savedrooms/ac627ab1ccbdb62ec96e702f07f6425b.png 1 http://simulator.machucatile.com/home
+/storage/rooms2d/room_icon_29.jpg 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/wwPv6mwGWnmJ0FuhGfAxPnrIUbhtYtWYfys3FX1J.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/qVBKEazw5XzUkcxBEqOiDSzNahD3EFMwG9GOiCPV.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/2EqIecJujMV5KgFT54s3g6CqLz62Baf25yVRRIUM.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/savedrooms/903ce9225fca3e988c2af215d4e544d3.png 6 http://simulator.machucatile.com/room2d
+/storage/rooms2d/room_icon_23.jpg 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/room_icon_25.jpg 1 http://simulator.machucatile.com/room2d
+/storage/company/rLZSPckHsgWiY8m9Ol73MAZsSmWaB4f0P7pYesoS.png 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/te9QBk78WK46Spw6BPqlYMXPXZK6Lepv2e5KdNAK.jpeg 2 http://simulator.machucatile.com/tiles
+/storage/rooms2d/XOEaSgXoVbe8zf5T84jJk06BA2d83uba3h4yUd1f.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/room_icon_26.jpg 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/bfgo7seAyZybrQ1T1cFeE8smELtM1LV1fmZtYWrj.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/Nclds91C2FbSOPRTYgyJe5jPlcYbeWcYPzVLb6MB.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/VSGkQwK2s4iBOV9CM6XZE4226xwXbbr6bamffRjT.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/rooms2d/wFjCNO0nmQtKrPiXArbCt6bOaHsUvFKvvKBZiGo7.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/eLCXyJaIQciKTaREnY1XfXjELHcyfztHJmmEPkos.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/tiles/icons/GIMgAIhhjDu45KMlT8SdOsn5AyIhggIinZ8LHiTC.png 1 http://simulator.machucatile.com/tiles
+/storage/rooms2d/0H6lci7t9tczzsk97840HKcoUhCYqDE1AEO9uYz8.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/savedrooms/b53b3a3d6ab90ce0268229151c9bde11.png 1 http://simulator.machucatile.com/home
+/storage/tiles/icons/pVOeZo85b5Q0w6RopwipnpMx6gWvHFzKwgCuWREF.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/tiles/icons/0Q4FfRri7LMo94X0bUccykCZt0Sov4dPvmNtmg3s.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/tiles/icons/wyBp9ZDgAjPOC8mgfo5OXPDvpNMgPHqhrZ0q7Bz9.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/savedrooms/c9e1074f5b3f9fc8ea15d152add07294.png 6 http://simulator.machucatile.com/room2d
+/storage/savedrooms/f0935e4cd5920aa6c7c996a5ee53a70f.png 6 http://simulator.machucatile.com/room2d
+/storage/rooms2d/1itGLok5obnNApQTZQT7Z9n7NvC8yDS2nFBLcpHs.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/J21tD8C7vhGF4diAFjke6Phw1TfxgPmCiR96u9MD.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/savedrooms/7f39f8317fbdb1988ef4c628eba02591.png 1 http://simulator.machucatile.com/home
+/storage/savedrooms/73278a4a86960eeb576a8fd4c9ec6997.png 6 http://simulator.machucatile.com/room2d
+/storage/rooms2d/2FEZtvz2pYswFKJkrNur0fCqMgnttmv0cBUtoj9M.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/8lOIqCubgdVQJFepAYlukyVtLWXZ27C49lQj9PVm.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/savedrooms/9f61408e3afb633e50cdf1b20de6f466.png 1 http://simulator.machucatile.com/home
+/storage/rooms2d/6Oe3LrNoVoQUlVEKZJv5ApBfBfnFzaPlT2eKciPo.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/Jhrtm4kwiITSEcsPYCjoCS66ISkmceGZrBv7hco6.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/savedrooms/642e92efb79421734881b53e1e1b18b6.png 1 http://simulator.machucatile.com/home
+/storage/tiles/icons/yXrTQouQsT2bQczfteW9YExdLDNVKxiIM8RniAxD.png 1 http://simulator.machucatile.com/tiles
+/storage/savedrooms/ed3d2c21991e3bef5e069713af9fa6ca.png 1 http://simulator.machucatile.com/home
+/storage/tiles/icons/BArBsbijgn6cnGsv0hNafChmsUyIORR39u7RchNm.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/savedrooms/3988c7f88ebcb58c6ce932b957b6f332.png 6 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/7FyOd6UvgDzgiOorIsrr2tNY9GCT3AEQd83UpSFq.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/tiles/icons/ArVBRzEwbs7Ray402UL0OYtjnJeDUdN0GnUF3PjP.jpeg 1 http://simulator.machucatile.com/tiles
+/js/room/pdfmake.min.js.map 2 -
+/storage/tiles/icons/TWl6yQR22Y4HA6zdlPkwHIa0otAWXVc3cmbc8crS.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/room_icon_8.jpg 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/k5VRAVGKCxfK3tzNWziyAWyx6zfqlV73GUp32C80.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/vgIdfm0dZJqo8CtEhO6S7XGRbpjcYOhXsQpNniLR.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/rooms2d/lTS66zqDKPubV7f6f1DqTPE5UyUNFZLvGhO5LKFG.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/savedrooms/093f65e080a295f8076b1c5722a46aa2.png 1 http://simulator.machucatile.com/home
+/storage/savedrooms/f033ab37c30201f73f142449d037028d.png 1 http://simulator.machucatile.com/home
+/storage/rooms2d/room_icon_6.jpg 1 http://simulator.machucatile.com/room2d
+/storage/savedrooms/76dc611d6ebaafc66cc0879c71b5db5c.png 6 http://simulator.machucatile.com/room2d
+/storage/savedrooms/42a0e188f5033bc65bf8d78622277c4e.png 6 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/3B6MWUviI8SjeiDk2x0Ye40w4cH7aJF2TOFIaa14.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/tiles/icons/W6fM27DtyjIezmqc3A5P9tlI5TqaOifLNeFZvzcK.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/tiles/icons/60OEUsCerWtWvDy9uqIxiLiYIvA8RODWujsTWRS1.png 1 http://simulator.machucatile.com/tiles
+/storage/tiles/icons/mEz7aTAgbcOVPFdZsfzh95PIFjM2Nj25jt0KCEVb.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/savedrooms/2838023a778dfaecdc212708f721b788.png 1 http://simulator.machucatile.com/home
+/storage/avatars/noavatar.png 2 http://simulator.machucatile.com/admin
+/storage/savedrooms/5fd0b37cd7dbbb00f97ba6ce92bf5add.png 6 http://simulator.machucatile.com/room2d
+/storage/tilesdesigner/classic/TANGIER%20COLORS.icon.png 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/4wk2GtTGFtYTHqkptQ8I9sGCfTDkjyJhzlWaYoYO.png 1 http://simulator.machucatile.com/tiles
+/storage/tiles/icons/IUQx08jpZBlC0BQuODuydrSth3qx50EWY9a26Syk.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/savedrooms/9b8619251a19057cff70779273e95aa6.png 6 http://simulator.machucatile.com/room2d
+/storage/rooms2d/room_icon_34.jpg 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/nnEKIZmYqo3qBYmW42qy2IamEWU5XxejOsERZJJ7.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/tiles/icons/lpHuIBMyamYVU07X3kfnR5FNP2Yh9PePB4Uq5rwJ.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/savedrooms/47d1e990583c9c67424d369f3414728e.png 6 http://simulator.machucatile.com/room2d
+/aadminn 1 -
+/storage/savedrooms/72b32a1f754ba1c09b3695e0cb6cde7f.png 1 http://simulator.machucatile.com/home
+/storage/tiles/icons/sOFagUjg0cK6OpkHDs8kwH7RjWHeedPX6Qscmt0G.jpeg 2 http://simulator.machucatile.com/tiles
+/storage/tiles/icons/EqLZ0fxDMgyH6TT92GMZCtNSHXus4WgRANvuAkSB.jpeg 1 http://simulator.machucatile.com/tiles
+/storage/tiles/icons/tA8omNrY5LOYoKftgtagu3lyk6TsHNcaHbVrQfnS.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/rooms2d/6RPrq70i8NFegAcRYIEsO8o6AJxyk6f30uQeaCmB.jpeg 1 http://simulator.machucatile.com/room2d
+/storage/savedrooms/0a09c8844ba8f0936c20bd791130d6b6.png 6 http://simulator.machucatile.com/room2d
+/storage/savedrooms/812b4ba287f5ee0bc9d43bbf5bbe87fb.png 1 http://simulator.machucatile.com/home
+/storage/tiles/icons/X6g0DXIOuGvOEIoXXhiat1XbkIt5LArG0VlcYeHl.jpeg 1 http://simulator.machucatile.com/tiles
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 15
+130.105.5.79 195 560 15871394 20191227114941
+180.191.158.105 119 253 7296532 20191226153653
+122.170.41.19 92 245 5869391 20191223153311
+122.170.17.121 27 104 4410319 20191218134444
+130.105.160.249 25 243 12501935 20191218135646
+130.105.248.31 11 11 96 20191213142327
+180.191.158.103 7 83 4305200 20191218172229
+180.191.158.118 7 82 4300443 20191220100149
+66.102.8.151 3 24 1813792 20191223151337
+66.102.8.149 3 25 1085687 20191223151336
+52.114.14.102 1 1 5354 20191223151603
+180.191.158.71 1 1 24 20191213115958
+180.191.158.90 1 1 24 20191216134616
+66.102.8.147 1 33 1400964 20191223151336
+180.191.159.22 0 1 1035 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20191212 0 1 1035 0
+20191213 12 12 120 3
+20191216 1 1 24 1
+20191218 59 430 21217454 3
+20191219 15 90 4326827 2
+20191220 7 82 4300443 1
+20191223 279 730 17434185 6
+20191226 119 253 7296532 3
+20191227 1 68 4285570 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+0s-30s 13
+1h+ 2
+5mn-15mn 1
+15mn-30mn 3
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 31
+/customtiles 88 732 1 2
+/get/filters 81 12360 0 7
+/room2d 47 347287 12 2
+/get/tiles 44 45714 1 0
+/tilesdesigner/blanktiles 44 8457 0 0
+/get/room2d/1 43 23985 0 0
+/tiles 37 337504 0 0
+/filters 20 72480 0 0
+/ 13 144 4 4
+/appsettings 10 19615 0 0
+/home 8 17907 0 0
+/get/tile/9 7 2042 0 0
+/fonts/glyphicons-halflings-regular.woff2 7 126210 0 1
+/tiles/upload 6 15780 0 0
+/users 6 23113 0 1
+/login 5 10517 2 1
+/rooms2d 4 19364 0 0
+/admin 3 9687 0 0
+/customtile/save 3 643 0 1
+/room2d/64 2 15226 0 1
+/get/filter/3 2 306 0 0
+/surfacetypes 2 6358 0 0
+/get/tile/10 2 578 0 0
+/profile 2 4307 0 0
+/get/user/8 1 158 0 0
+/get/room2d/64 1 590 0 0
+/get/tile/13 1 265 0 0
+/userRoom/save 1 112 0 0
+/register 1 1120 0 0
+/get/tile/14 1 265 0 0
+/get/tile/4 1 308 0 0
+END_SIDER
